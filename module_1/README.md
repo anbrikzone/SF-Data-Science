@@ -1,4 +1,4 @@
-# SF-Data-Science
+# Module 1
 This Project is module_1.
 
 - The task was provide some analysis from data and help to make decision to start business, related with movies. In this Project have been analysed data from movie_db.csv and found out some criteria.
