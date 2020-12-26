@@ -16,29 +16,29 @@ The main target was to find out impact of life conditions to educational perform
     - Conclusions
 
 3. Some questions and answers from task:
-    - What was your role in the team?
+    What was your role in the team?
     - I was alone. It my personal work, but there were support from community of SkillFactory Training center
     
 
-    - What part of your work did you find particularly satisfying?
+    What part of your work did you find particularly satisfying?
     - I spent a lot of time to find right questions for resolving this task, because in the beginning I was not understood what exactly I should do. And finding questions and answers made me more competency.
 
 
-    - What didn't work out the way you wanted? What else is worth working on?
+    What didn't work out the way you wanted? What else is worth working on?
     - To structure algorithm and order to create right EDA
 
 
-    - What interesting and useful things did you learn in this module?
+    What interesting and useful things did you learn in this module?
     - Found out what is it EDA and how to make right conclusion by different features
 
 
-    - What is your main result when completing this project?
+    What is your main result when completing this project?
     - Right route for analyzing data, sequence for making conclusions
 
 
-    - What skills can you already apply in your current activity?
+    What skills can you already apply in your current activity?
     - Right now - nothing
 
 
-    - Do you plan to further study the materials on the project topic?
+    Do you plan to further study the materials on the project topic?
     - Yes, I do. The process of analysis data is interesting and fascinating, when you can find insights, which nobody can see.
