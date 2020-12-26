@@ -16,6 +16,7 @@ The main target was to find out impact of life conditions to educational perform
     - Conclusions
 
 3. Some questions and answers from task:
+    
     What was your role in the team?
     - I was alone. It my personal work, but there were support from community of SkillFactory Training center
     
